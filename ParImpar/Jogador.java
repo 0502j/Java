@@ -85,7 +85,7 @@ public class Jogador {
         if (this.escolha == (this.jogada + jogada % 2)){
             System.out.println(this.nome + " ganhou!");
         }else{
-            System.out.println(this.nome + " ganhou!");
+            System.out.println(nome + " ganhou!");
         }
         
         
